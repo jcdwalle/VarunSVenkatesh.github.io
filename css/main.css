@@ -1,4 +1,4 @@
-body { margin: 60px auto; width: 70%; min-height:100%; position: relative; height: auto; }
+body { margin: 60px auto; width: 70%; position: relative; height: auto; overflow: auto; display: block;}
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
